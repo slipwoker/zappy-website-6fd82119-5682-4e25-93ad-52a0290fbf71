@@ -1,6 +1,4 @@
-# בן המנעולן — Generative Engine Optimization Map
-
-> A locksmith business operating in the central region of Israel, providing professional lock and security services to local residents and businesses.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,20 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About בן המנעולן
-A locksmith business operating in the central region of Israel, providing professional lock and security services to local residents and businesses.
-
-## Services/Products
-- מנעולנות
-
-## Target Audience
-- אנשים שנתקעו מחוץ לבית בלי מפתח
-- פריצת רכבים ללא נזק
-- פריצת דלתות בתים
-
-## Industry
-שירותי מנעולנות
-
+## About Business
 ---
 
 # Additional Resources
