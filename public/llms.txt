@@ -1,35 +1,50 @@
-# Business — Generative Engine Optimization Map
+# בן המנעולן — Generative Engine Optimization Map
+
+> A locksmith business operating in the central region of Israel, providing professional lock and security services to local residents and businesses.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://benhamanalolan.zappy5.app
 A locksmith business operating in the central region of Israel, providing professional lock and security services to local residents and businesses.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://benhamanalolan.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://benhamanalolan.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://benhamanalolan.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About בן המנעולן
+A locksmith business operating in the central region of Israel, providing professional lock and security services to local residents and businesses.
+
+## Services/Products
+- מנעולנות
+
+## Target Audience
+- אנשים שנתקעו מחוץ לבית בלי מפתח
+- פריצת רכבים ללא נזק
+- פריצת דלתות בתים
+
+## Industry
+שירותי מנעולנות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://benhamanalolan.zappy5.app/sitemap.xml
+- **Robots.txt**: https://benhamanalolan.zappy5.app/robots.txt
