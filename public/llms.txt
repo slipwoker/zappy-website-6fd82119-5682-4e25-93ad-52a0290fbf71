@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# בן המנעולן — Generative Engine Optimization Map
+
+> A locksmith business operating in the central region of Israel, providing professional lock and security services to local residents and businesses.
 
 ---
 
@@ -24,12 +26,45 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## How to Contact Us
 
-## About Business
+- Phone: 0544559955
+- Phone (tel): tel:0544559955
+
+### Contact form
+- URL: https://benhamanalolan.zappy5.app
+- Endpoint: https://benhamanalolan.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://benhamanalolan.zappy5.app/sitemap.xml
-- **Robots.txt**: https://benhamanalolan.zappy5.app/robots.txt
+## About בן המנעולן
+A locksmith business operating in the central region of Israel, providing professional lock and security services to local residents and businesses.
+
+## Services/Products
+- מנעולנות
+
+## Target Audience
+- אנשים שנתקעו מחוץ לבית בלי מפתח
+- פריצת רכבים ללא נזק
+- פריצת דלתות בתים
+
+## Industry
+שירותי מנעולנות
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://benhamanalolan.zappy5.app/sitemap.xml
+- Robots: https://benhamanalolan.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://benhamanalolan.zappy5.app/llms-full.txt
